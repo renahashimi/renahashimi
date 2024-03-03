@@ -1,5 +1,6 @@
 # Hi there 👋
-My name is Rena Hashimi
+## My name is Rena Hashimi.
+
 I am a Front-end Developer student at Noroff School of Technology and Digital Media.
 
 - 🔭 I’m currently working on ...
