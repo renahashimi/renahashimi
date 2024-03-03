@@ -6,8 +6,8 @@ I am 34 years old and live in Oslo. I am married, mother of two beautiful childr
 
 Since I can remember, I have always had a great passion for IT, coding, web development and design. After working in customer service for almost 16 years, it was time for a career change and I decided to fulfill my dream of becoming a developer.
   
-# SKILLS
-  ## [![My Skills](https://skillicons.dev/icons?i=github,js,html,css,figma,netlify,wordpress,php,)](https://skillicons.dev)
+## Skills
+  ### [![My Skills](https://skillicons.dev/icons?i=github,js,html,css,figma,netlify,wordpress,php,)](https://skillicons.dev)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
