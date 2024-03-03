@@ -9,6 +9,5 @@ Since I can remember, I have always had a great passion for IT, coding, web deve
 ## Skills
   ### [![My Skills](https://skillicons.dev/icons?i=github,js,html,css,figma,netlify,wordpress,php,)](https://skillicons.dev)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renahashimi&layout=compact)](https://github.com/renahashimi/github-readme-stats)
 
   
