@@ -7,7 +7,7 @@ I am 34 years old and live in Oslo. I am married, mother of two beautiful childr
 Since I can remember, I have always had a great passion for IT, coding, web development and design. After working in customer service for almost 16 years, it was time for a career change and I decided to fulfill my dream of becoming a developer.
   
 ## Skills
-  ### [![My Skills](https://skillicons.dev/icons?i=github,js,html,css,figma,netlify,wordpress,php,)](https://skillicons.dev)
+  ### [![My Skills](https://skillicons.dev/icons?i=github,js,html,css,figma,netlify,wordpress,php,bootstrap)](https://skillicons.dev)
 
 
   
