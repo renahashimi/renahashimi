@@ -15,7 +15,7 @@ At Noroff, I honed my skills in modern web technologies, problem-solving, and cr
 [Visit my Portfolio](https://portfolio-renahashimi.netlify.app/)
 
 ## Skills
-  ### [![My Skills](https://skillicons.dev/icons?i=github,js,html,css,react,vite,figma,netlify,wordpress,php,bootstrap,tailwind,cypress,jest,notion,scss)](https://skillicons.dev)
+  ### [![My Skills](https://skillicons.dev/icons?i=github,js,html,css,react,vite,nodejs,figma,netlify,wordpress,php,bootstrap,tailwind,cypress,jest,notion,scss,styledcomponents)](https://skillicons.dev)
 
 #
 
