@@ -1,10 +1,16 @@
-# Hi there, my name is Rena Hashimi 👋
-I am a Front-end Developer. I recently completed my studies at Noroff School of Technology and Digital Media.
+## Hi, I'm Rena! 👋
 
-## About me
-I am 35 years old and live in Oslo. I am married, a mother of two beautiful children, and work full-time in optics. With all this on my plate, I also studied to become a Front-end Developer at Noroff School of Technology and Digital Media, and I have now completed my studies.
+I'm a Front-End Developer based in Oslo, Norway, passionate about building clean, responsive, and user-friendly websites. With a strong foundation in HTML, CSS, JavaScript, and React, I specialize in creating seamless, interactive digital experiences that not only meet but exceed user expectations.
 
-Since I can remember, I’ve always had a great passion for IT, coding, web development, and design. After working in customer service for almost 16 years, it was time for a career change. I decided to fulfill my dream of becoming a developer, and I am now working on developing my skills in this field.
+I’ve always had a deep interest in IT, coding, and web development, and after almost 16 years in customer service, I decided to pursue my dream of becoming a developer. I recently completed my studies at Noroff School of Technology and Digital Media, where I gained hands-on experience with modern web technologies and UI/UX principles.
+
+I’m always looking for ways to improve and stay up-to-date with the latest trends in web design and development. I love exploring design aesthetics to refine my creative skills, and I approach every project with the aim of blending creativity with functionality. I believe in creating intuitive and efficient user experiences that are both visually appealing and highly functional.
+
+## EDUCATION
+
+### Front-End Development | Noroff School of Technology and Digital Media
+
+At Noroff, I honed my skills in modern web technologies, problem-solving, and crafting user-friendly interfaces. I learned how to balance creativity with technical expertise, resulting in projects that are not only well-coded but also visually engaging and user-focused.
 
 [Visit my Portfolio](https://portfolio-renahashimi.netlify.app/)
 
